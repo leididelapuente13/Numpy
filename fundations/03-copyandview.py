@@ -12,13 +12,4 @@ arr_view[2] = 22
 print(arr, arr_view)
 
 # how to check if an array owns its data? - the view will return the original and the copy base
-print(arr
-
-
-
-
-
-
-
-
-      .base)
+print(arr.base)
